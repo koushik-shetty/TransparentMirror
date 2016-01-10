@@ -1,4 +1,4 @@
-#KOCREngine 
-####OCR engine for realtime translation
+#TransparentMirror 
+####Client application for KOCREngine
 Author: Koushik Shetty
 License: MIT License
